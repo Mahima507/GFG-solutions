@@ -1,20 +1,68 @@
-# GFG-solutions
+# 📚 GFG Solutions – POTD
 
-# GFG POTD 
+Consistent solutions to **GeeksforGeeks Problem of the Day (POTD)** focused on improving Data Structures & Algorithms skills.
 
-# Usage
-You can navigate through the repository to find the problem you are interested in.
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-GeeksforGeeks-green?logo=geeksforgeeks" />
+  <img src="https://img.shields.io/badge/Focus-DSA-blue" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+</p>
 
-Feel free to explore the code, make modifications, and use it as a reference to improve your understanding of the problem and its solution.
+---
 
-# Contributing
-Contributions to this repository are welcome! If you would like to contribute your own solutions or add support for additional programming languages, please follow the guidelines below:
+## 📌 Overview
 
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Add your solution files in the appropriate language and problem directories.
-4. Include a README.md file in the problem directory, describing the problem and your approach to solving it.
-5. Commit your changes and push the branch to your forked repository.
-6. Submit a pull request, explaining the changes you have made.
-   
-Please ensure that your code adheres to good coding practices and is well-documented.
+This repository contains topic-wise solutions to GFG problems to build strong problem-solving skills and maintain coding consistency.
+
+---
+
+## 📂 Structure
+GFG-solutions/
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Trees/
+├── Graph/
+└── DynamicProgramming/
+
+
+---
+
+## 💻 Languages
+
+- C++  
+- Java  
+- Python  
+
+---
+
+## 🚀 Usage
+
+- Browse topics  
+- Pick a problem  
+- Try solving first  
+- Use solutions for reference  
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repo  
+2. Create a branch  
+3. Add solution  
+4. Commit & push  
+5. Open PR  
+
+---
+
+## 👩‍💻 Author
+
+**Mahima Chandel**  
+GitHub: https://github.com/Mahima507  
+LinkedIn: https://www.linkedin.com/in/mahima0811/  
+
+---
+
+## ⭐ Support
+
+If helpful, give it a ⭐
